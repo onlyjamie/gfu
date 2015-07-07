@@ -59,6 +59,7 @@ body {
 .menu {
   background-color: #292c2f;
   padding: 1.5rem 3rem;
+  position: fixed;
   height: auto; }
   .menu .inline-list {
     text-align: center; }
@@ -162,7 +163,7 @@ html, body {
 /* HERO AREA */
 ------------------------
 .hero {
-  background: url("http://wallpoper.com/images/00/34/39/15/circuit-pcb_00343915.jpg") no-repeat center center;
+  background: url("http://i.imgur.com/CoBPspI.jpg") no-repeat center center;
   background-size: cover;
   height: 100vh; }
   .hero:before {
@@ -172,7 +173,7 @@ html, body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+    background-image: linear-gradient(to bottom right, #ff9933, #ffffff);
     opacity: .8; }
   .hero .intro {
     padding: 3rem;
