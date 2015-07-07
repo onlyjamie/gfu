@@ -1,4 +1,16 @@
 ------------------------
+/* ABOUT ICONS */
+------------------------
+.about-icon {
+	width: 9rem;
+	height: 9rem;
+	display: block;
+	border-radius: 50%;
+	background-color: #FFC133;
+	color: #fff;
+}
+
+------------------------
 /* PARALLAX BACKGROUND */
 ------------------------
 
@@ -191,15 +203,3 @@ html, body {
       font-size: 2.5rem; }
     .hero p {
       text-align: right; } }
-
-------------------------
-/* ABOUT ICONS */
-------------------------
-	.about-icon {
-	width: 9rem;
-	height: 9rem;
-	display: block;
-	border-radius: 50%;
-	background-color: #FFC133:;
-	color: #fff;
-	}
