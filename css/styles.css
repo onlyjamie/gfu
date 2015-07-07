@@ -12,8 +12,9 @@
 }
 
 icony { 
-	width: 9rem;
-	height: 9rem;
+	width: 10rem;
+	height: 10rem;
+	padding: 2rem;
 	display: block;
 	border-radius: 50%;
 	font-size: 5em;
