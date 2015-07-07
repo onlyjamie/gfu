@@ -1,20 +1,10 @@
 ------------------------
 /* ABOUT ICONS */
 ------------------------
-.parallax-content .about-icon {
-	width: 9rem;
-	height: 9rem;
-	display: block;
-	border-radius: 50%;
-	font-size: 5em;
-	background-color: #FFC133;
-	color: #fff;
-}
-
 icony { 
-	width: 10rem;
-	height: 10rem;
-	padding: 2rem;
+	width: 15rem;
+	height: 15rem;
+	padding: 50px;
 	display: block;
 	border-radius: 50%;
 	font-size: 5em;
