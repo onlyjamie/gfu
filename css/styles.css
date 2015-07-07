@@ -11,6 +11,16 @@
 	color: #fff;
 }
 
+icony { 
+	width: 9rem;
+	height: 9rem;
+	display: block;
+	border-radius: 50%;
+	font-size: 5em;
+	background-color: #FFC133;
+	color: #fff;
+}
+
 ------------------------
 /* PARALLAX BACKGROUND */
 ------------------------
