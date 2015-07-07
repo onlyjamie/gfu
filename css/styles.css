@@ -178,6 +178,10 @@ html, body {
     font-weight: 200;
     text-align: center;
     margin-bottom: 2rem; }
+    
+  .hero p span { 
+  	font-size: 0.5em;
+  }
 
   @media only screen and (min-width: 40.063em) {
 
@@ -188,3 +192,13 @@ html, body {
     .hero p {
       text-align: right; } }
 
+------------------------
+/* ABOUT ICONS */
+------------------------
+	.about-icon {
+	width: 8em;
+	height: 8em;
+	border-radius: 50%;
+	background-color: rgb(255,193,51);
+	color: #fff;
+	}
