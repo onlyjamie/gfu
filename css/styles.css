@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, h7 {
 
 .parallax-background {
 	background: url("http://i.imgur.com/CoBPspI.jpg") no-repeat center center;
-	height: 620px;
+	height: 420px;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
