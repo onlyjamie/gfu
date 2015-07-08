@@ -22,7 +22,12 @@ body {
 	font-size: 20px;
 }
 
+h1, h2, h3, h4, h5, h6, h7 { 
+	text-align: center;
+}
+
 .parallax-background {
+	background: url("http://i.imgur.com/CoBPspI.jpg") no-repeat center center;
 	height: 620px;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -58,8 +63,8 @@ body {
 .menu {
   background-color: #292c2f;
   padding: 1.5rem 3rem;
-  position: fixed;
-  z-index: 100;
+  /* position: fixed;
+  z-index: 100; */
   height: auto; }
   .menu .inline-list {
     text-align: center; }
@@ -163,7 +168,6 @@ html, body {
 /* HERO AREA */
 ------------------------
 .hero {
-  background: url("http://i.imgur.com/CoBPspI.jpg") no-repeat center center;
   background-size: cover;
   height: 100vh; }
   .hero:before {
