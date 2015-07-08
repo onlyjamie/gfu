@@ -14,9 +14,14 @@ icony {
 
 .schedule {
 	background-color: #ff9933;
+	height: 420px;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
 	background-size: cover;
-	padding: 2em auto;
-	height: 100vh; 
+	position: fixed;
+	width: 100%;
 }
 
 ------------------------
