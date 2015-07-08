@@ -23,7 +23,6 @@ body {
 }
 
 .parallax-background {
-	background-color: #0078A0;
 	height: 620px;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -60,6 +59,7 @@ body {
   background-color: #292c2f;
   padding: 1.5rem 3rem;
   position: fixed;
+  z-index: 100;
   height: auto; }
   .menu .inline-list {
     text-align: center; }
