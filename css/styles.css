@@ -97,32 +97,6 @@ h1, h2, h3, h4, h5, h6, h7 {
 	text-align: center;
 }
 
-.parallax-background {
-	background: url("http://i.imgur.com/CoBPspI.jpg") no-repeat center center;
-	height: 420px;
-	background-repeat: no-repeat;
-	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-	background-size: cover;
-	position: fixed;
-	width: 100%;
-}
-
-.intro-text {
-	font-size: 50px;
-	color: #fff;
-	text-align: center;
-	margin-top: 15%;
-}
-.parallax-content {
-	max-width: 100%;
-	position: relative;
-	top: 500px;
-	padding: 50px;
-	font-size: 20px;
-	background-color: #fff;
-}
 
 ------------------------
 /* TOP BAR FOR NAVIGATION */
