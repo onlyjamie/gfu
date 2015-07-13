@@ -48,7 +48,7 @@ body {
 #sect-1 {
 	background-color: #ff9933;
 	opacity: 0.95;
-	height: 420px;
+	height: 2em !important;
 }
 #sect-3 {
   background: #ff9933;
