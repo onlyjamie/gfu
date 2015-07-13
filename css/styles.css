@@ -42,7 +42,13 @@ body {
   background-image: url("http://i.imgur.com/CoBPspI.jpg");
  /* transform: translateZ(-1px) scale(0.5); */
   background-size: cover;
+  background-position: center;
   z-index:-1;
+  height: 420px;
+}
+#sect-1:after {
+	background-color: #ff9933;
+	opacity: 0.8;
 }
 #sect-3 {
   background: #ff9933;
