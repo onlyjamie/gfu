@@ -45,10 +45,11 @@ body {
   background-position: center;
   z-index:-1;
   height: 420px;
+  opacity: 0.8;
 }
-#sect-1:after {
+#sect-1 {
 	background-color: #ff9933;
-	opacity: 0.8;
+	opacity: 0.95;
 }
 #sect-3 {
   background: #ff9933;
@@ -60,7 +61,6 @@ body {
   margin: 0 auto;
   padding: 25vh 0;
   text-align: center;
-  /* width: 960px; */
 }
 
 
