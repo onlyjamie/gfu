@@ -39,7 +39,7 @@ body {
   background: #fff;
 }
 #sect-1:before {
-  background-image: url("http://i.imgur.com/CoBPspI.jpg");
+  background-image: url("http://i.imgur.com/5cfIvIw.jpg");
   transform: translateZ(-1px) scale(1.2);
   background-position: center;
   position: fixed;
@@ -49,7 +49,6 @@ body {
 #sect-1 {
 	background-color: #ff9933;
 	opacity: 0.95;
-	height: 250px !important;
 }
 #sect-3 {
   background: #ff9933;
