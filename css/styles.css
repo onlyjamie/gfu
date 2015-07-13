@@ -79,14 +79,14 @@ icony {
 
 .capicon {
   background-color: #ffc133;
-  width: 3em;
-  height: 3em;
+  width: 2.8em;
+  height: 2.8em;
   padding: 25px;
   border-radius: 50%;
   clear: both;
   float: left;
   color: #fff;
-  font-size: 5em;
+  font-size: 8em;
   text-align: center;
   margin-bottom: 10px;
 }
