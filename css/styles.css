@@ -99,8 +99,8 @@ icony {
   	-moz-background-size: cover;
   	-o-background-size: cover;
 	background-size: cover;
-	position: fixed;
 	width: 100%;
+	opacity: 0.8;
 }
 
 ------------------------
