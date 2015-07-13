@@ -41,10 +41,9 @@ body {
 #sect-1:before {
   background-image: url("http://i.imgur.com/CoBPspI.jpg");
  /* transform: translateZ(-1px) scale(0.5); */
-  background-size: cover;
   background-position: center;
   z-index:-1;
-  opacity: 0.8;
+  opacity: 0.2;
 }
 #sect-1 {
 	background-color: #ff9933;
