@@ -40,7 +40,7 @@ body {
 }
 #sect-1:before {
   background-image: url("http://i.imgur.com/CoBPspI.jpg");
-  transform: translateZ(-1px) scale(0.5)
+  transform: translateZ(-1px) scale(0.5);
   background-size: cover;
   z-index:-1;
 }
