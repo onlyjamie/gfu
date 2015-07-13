@@ -44,12 +44,12 @@ body {
   background-size: cover;
   background-position: center;
   z-index:-1;
-  height: 420px;
   opacity: 0.8;
 }
 #sect-1 {
 	background-color: #ff9933;
 	opacity: 0.95;
+	height: 420px;
 }
 #sect-3 {
   background: #ff9933;
