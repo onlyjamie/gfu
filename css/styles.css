@@ -1,4 +1,63 @@
 ------------------------
+/* MULTIPLE PARALLAX SECTIONS */
+------------------------
+
+* { 
+  box-sizing: border-box; 
+}
+html {
+  height: 100%;
+  overflow: hidden;
+}
+body { 
+  margin: 0;
+  perspective: 1px;
+  transform-style: preserve-3d;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.section {
+  padding: 25vh 10%;
+  position: relative;
+  min-height: 100vh;
+  width: 100vw;
+  transform-style: inherit;
+}
+.section, .section:before {
+  background: 50% 50% / cover;  
+}
+.section:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left:0;
+  right:0;
+}
+#sect-2 {
+  background: #fff;
+}
+#sect-1:before {
+  background-image: url("http://i.imgur.com/CoBPspI.jpg");
+  transform: translateZ(-1px) scale(2);
+  z-index:-1;
+}
+#sect-3 {
+  background: #ff9933;
+}
+
+.container {
+  color: #fff;
+  font-size: 48px;
+  margin: 0 auto;
+  padding: 25vh 0;
+  text-align: center;
+  width: 960px;
+}
+
+
+------------------------
 /* ABOUT ICONS */
 ------------------------
 icony { 
