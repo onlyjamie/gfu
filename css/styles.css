@@ -223,7 +223,7 @@ html, body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: linear-gradient(to bottom right, #ff9933, #000000);
+    background-color: #ff9933, #000000;
     opacity: .8; }
   .hero .intro {
     padding: 3rem;
